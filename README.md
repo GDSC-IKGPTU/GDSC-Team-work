@@ -1,6 +1,6 @@
-// sample is here, you need to upldate your works in this way 
+# Sample is here, you need to update your works in this way. 
 
-# GDSC-Team-work
+## GDSC-Team-work
 
 ---
 <h1>Date : 24-09-23 </h1> <br /> 
